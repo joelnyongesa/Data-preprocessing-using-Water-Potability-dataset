@@ -6,10 +6,10 @@ Access to safe drinking-water is essential to health, a basic human right and a 
 
 The water_potability.csv file contains water quality metrics for 3276 different water bodies. It has 10 columns, namely pH, Potability, hardness, solids, chloramines, sulfate, conductivity, organic_carbon, trihalomethanes and turbidity
 
-#Objectives
+# Objectives
 To perform data preprocessing and prepare the dataset before machine learning algorithms can be done on it.
 
-#Steps taken
+# Steps taken
 * Getting the dataset
 * Importing the libraries
 * Importing the dataset
